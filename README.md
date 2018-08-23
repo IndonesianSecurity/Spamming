@@ -6,8 +6,7 @@ Sending message with OTP login verification
 ### Usage 
 - Go to directory where you installing this tools.
 - Call by typing:
-	```sh spamming.sh
-	```
+	```sh spamming.sh ```
 - Then choice one on list
 
 ### Requirements
